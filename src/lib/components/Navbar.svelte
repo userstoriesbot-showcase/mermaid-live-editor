@@ -88,7 +88,7 @@
       {#if !mobileToggle}
         Mermaid
       {/if}
-      Live Editor
+      Live Diagram Editor
     </a>
   </div>
   <div
